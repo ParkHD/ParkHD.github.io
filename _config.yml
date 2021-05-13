@@ -274,6 +274,7 @@ defaults:
       path: ""
       type: posts
     values:
+      classes: wide
       layout: single
       author_profile: true
       read_time: true
