@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "두찌의 개코딩"
-title_separator          : "| DoZZi"
-subtitle                 : "오늘도 배부르다"# site tagline that appears below site title in masthead
+title_separator          : "|"
+subtitle                 : "오늘도 배부르다" # site tagline that appears below site title in masthead
 name                     : "ParkDoZZi"
 description              : "An amazing website."
 url                      : "https://ParkHD.github.io"
