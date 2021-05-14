@@ -12,13 +12,13 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "두찌의 개코딩"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title_separator          : "| DoZZi"
+subtitle                 : "오늘도 배부르다"# site tagline that appears below site title in masthead
 name                     : "ParkDoZZi"
 description              : "An amazing website."
 url                      : "https://ParkHD.github.io"
@@ -277,7 +277,7 @@ defaults:
       #classes: wide 포스팅 기본값
       layout: single
       author_profile: true
-      read_time: true
+      #read_time: true
       comments: # true
       share: true
       related: true
