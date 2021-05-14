@@ -13,5 +13,12 @@ toc_sticky: true
 date: 2021-05-13
 last_modified_at: 2021-05-13
 ---
-#5 ddddd
-dddddddd
+
+# 1. The minimal-mistakes-jekyll theme could not be found. (Jekyll::Errors::MissingDependencyException)  
+
+Geimfile에 
+{{gem "minimal-mistakes-jekyll"}}추가
+
+cmd창에 bundle install
+
+완료
