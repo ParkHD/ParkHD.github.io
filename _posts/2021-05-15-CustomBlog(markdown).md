@@ -9,8 +9,8 @@ tags:
 
 toc: true
 toc_sticky: true
- 
 date: 2021-05-15
+classes: wide 
 last_modified_at: 2021-05-15
 ---
 ## 0. 비고

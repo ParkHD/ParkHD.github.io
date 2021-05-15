@@ -103,21 +103,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -274,13 +259,27 @@ defaults:
       path: ""
       type: posts
     values:
-      #classes: wide 포스팅 기본값
       layout: single
       author_profile: true
-      #read_time: true
+      read_time: true
       comments: # true
       share: true
-      related: true
+      related: true      
+      sidebar_main: true
       sidebar:
-        - title: "Title"
-          text: "ddd"
+        nav: "main"
+      
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
+      sidebar_main: true
+      sidebar:
+        nav: "main"
