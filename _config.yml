@@ -281,3 +281,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        - title: "Title"
+          text: "ddd"
