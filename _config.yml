@@ -253,10 +253,6 @@ compress_html:
 
 # Collections
 collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-    
   posts-blogs:
     permalink: /:collection/:path/
     output: true
