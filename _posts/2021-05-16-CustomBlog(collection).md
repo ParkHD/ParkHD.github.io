@@ -16,7 +16,6 @@ last_modified_at: 2021-05-16
 * 카테고리 분류하여 글들을 넣을 _posts-blogs 폴더를 만든다  
 
 ## 2. _pages 폴더에 페이지(카테고리) 추가하기 
----
 * _pages폴더가 없다면 폴더를 만들어준다.<br>
 
 * _pages폴더안에 collection-blog.md를 만들어준다  
@@ -35,7 +34,6 @@ classes: wide
 
 
 ## 3. _config.yml 에 추가하기
----
 ``` 
 collections:
   posts-blogs:
@@ -56,7 +54,7 @@ defaults:
         nav: "main"
 ```
 ## 4. 확인하기 
-[1번에서 만든 폴더](#1.-카테고리-폴더를-만들자)에다가 아무 글을 넣고 
+[1번에서 만든 폴더](#1-카테고리-폴더를-만들자) 에다가 아무 글을 넣고 
 (자기주소).github.io/blogdiv/에 들어가봐서 있는지 확인 ㄱㄱ  
 확인할수 있다.
 
