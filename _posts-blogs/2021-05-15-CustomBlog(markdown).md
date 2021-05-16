@@ -6,8 +6,7 @@ categories:
   - categories
 tags:
   - [categories]
-collection:
-  - portfolio
+
 toc: true
 toc_sticky: true
 date: 2021-05-15
@@ -55,8 +54,8 @@ Geimfile에 gem "minimal-mistakes-jekyll"추가
 
 [유튜브로 이동](https://youtube.com "마우스 올렸니?")<br>
 <https://youtube.com><br>
-[동일포스터 내 문단이동](#0.-비고)
-> #제목
+[동일포스터 내 문단이동](#0.-비고)  
+#제목
 
 
 ```c++
