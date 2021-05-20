@@ -3,9 +3,9 @@ title:  "블로그 포스팅(markdown사용법)"
 excerpt: "블로그 포스팅을 위한 마크다운 언어 필수 사용법!! "
 
 categories:
-  - category
+  - categories
 tags:
-  - [category]
+  - [categories]
 collection:
   - portfolio
 toc: true
