@@ -92,6 +92,7 @@ public class InventorySlot : MonoBehaviour
 ```
 > **EventTrigger**컴포넌트를 사용하였다.
 
+> delegate를 사용함으로써 OnCursorEnter()가 호출될때 InventoryUI.ShowInfo도 호출된다.
 ## 1-1 Image.enabled
 * Image를 활성화 설정
 
